@@ -1,6 +1,8 @@
 # LexiLens
 
+![LexiLens](img/Red Modern Read Aloud community logo.png)
 **LexiLens** is a Chrome extension designed to make online reading more accessible for people with dyslexia. With features like dyslexia-friendly fonts, customizable text settings, and a read-aloud function, LexiLens aims to improve readability and comprehension for users with dyslexia.
+![LexiLens](img/Screenshot 2024-07-11 172958.png)
 
 ## Table of Contents
 
@@ -68,10 +70,10 @@ Future plans for **LexiLens** include adding more dyslexia-friendly features, su
 ## Screenshots
 
 ### Before LexiLens
-![Before LexiLens](path/to/before-image.png)
+![Before LexiLens](img/Screenshot 2024-07-11 173148.png)
 
 ### After LexiLens
-![After LexiLens](path/to/after-image.png)
+![After LexiLens](img/Screenshot 2024-07-11 173224.png)
 
 ## Installation
 
