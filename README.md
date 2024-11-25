@@ -1,8 +1,6 @@
 # LexiLens
 
-![LexiLens](img/Red Modern Read Aloud community logo.png)
 **LexiLens** is a Chrome extension designed to make online reading more accessible for people with dyslexia. With features like dyslexia-friendly fonts, customizable text settings, and a read-aloud function, LexiLens aims to improve readability and comprehension for users with dyslexia.
-![LexiLens](img/Screenshot 2024-07-11 172958.png)
 
 ## Table of Contents
 
@@ -67,21 +65,13 @@ Future plans for **LexiLens** include adding more dyslexia-friendly features, su
 - **Read Aloud Feature**: Listen to the text on the page.
 - **Font and Color Preview**: Preview changes before applying.
 
-## Screenshots
-
-### Before LexiLens
-![Before LexiLens](img/Screenshot 2024-07-11 173148.png)
-
-### After LexiLens
-![After LexiLens](img/Screenshot 2024-07-11 173224.png)
-
 ## Installation
 
 To install **LexiLens** locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/LexiLens.git
+    git clone https://github.com/NishthaSharma-22/LexiLens.git
     ```
 
 2. Open Chrome and navigate to `chrome://extensions/`.
@@ -98,14 +88,6 @@ To install **LexiLens** locally, follow these steps:
 2. Use the settings in the popup to choose a dyslexia-friendly font, adjust text colors, and change text spacing.
 3. Click **Apply Changes** to see the adjustments on the current web page.
 4. Use the **Read Aloud** button to have the text read to you.
-
-## Contributing
-
-While contributions are not currently being accepted, you can report bugs or suggest features by opening an issue on [GitHub](https://github.com/your-username/LexiLens/issues).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
